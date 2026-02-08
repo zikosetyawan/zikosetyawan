@@ -107,9 +107,10 @@ ANN-based NLP model for fake news classification, deployed on Hugging Face for r
 ---
 
 ### 🏦 Banking Analytics Pipeline
-Analytical pipeline for banking transaction data, focusing on structured processing, reporting workflows, and data readiness.
+End-to-end banking transaction pipeline integrating data ingestion, SQL-based transformation, fraud risk analysis, and interactive Power BI dashboards to explore whether fraud patterns are driven by specific transaction attributes or multi-dimensional behavioral combinations.
 
-**Focus:** Data Pipeline • Analytics • Financial Context  
+**Focus:**  
+Data Engineering • Fraud Analytics • SQL Transformation • Business-Facing Dashboard
 
 ---
 
