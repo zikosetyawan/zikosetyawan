@@ -76,44 +76,6 @@ I approach data problems through three connected layers:
 
 ---
 
-## 📌 Featured Projects
-
-### ☕ Coffee Sales Performance Analysis
-Sales data analysis to support operational and marketing decisions through time-based revenue patterns and product performance.
-
-**Focus:** EDA • Visualization • Business Insight  
-
----
-
-### 🏠 Surabaya House Price Prediction
-End-to-end regression model to predict house prices based on property characteristics, deployed via an interactive Streamlit app.
-
-**Focus:** Feature Engineering • Regression Modeling • Deployment  
-
----
-
-### 🏨 Hotel Booking Cancellation Prediction
-Supervised classification models to predict booking cancellations, optimized using **recall** and **ROC-AUC** for revenue management decisions.
-
-**Focus:** Classification • Model Evaluation • Decision Metrics  
-
----
-
-### 📰 Fake News Detection (NLP)
-ANN-based NLP model for fake news classification, deployed on Hugging Face for real-time inference.
-
-**Focus:** Text Classification • Neural Networks • NLP  
-
----
-
-### 🏦 Banking Analytics Pipeline
-End-to-end banking transaction pipeline integrating data ingestion, SQL-based transformation, fraud risk analysis, and interactive Power BI dashboards to explore whether fraud patterns are driven by specific transaction attributes or multi-dimensional behavioral combinations.
-
-**Focus:**  
-Data Engineering • Fraud Analytics • SQL Transformation • Business-Facing Dashboard
-
----
-
 ## 💼 Professional Background
 
 **PT. Bank Pembangunan Daerah Jawa Timur**  
@@ -142,7 +104,7 @@ This experience strengthens my ability to connect **data, analytics, and real bu
 
 ## 📫 Let’s Connect
 - 📧 Email: zikomuhammad2@gmail.com  
-- 💼 LinkedIn: *(add your link)*  
+- 💼 LinkedIn: [Muhammad Ziko Ananda Setyawan](www.linkedin.com/in/muhammad-ziko-ananda-setyawan)  
 
 ---
 
