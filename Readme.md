@@ -104,7 +104,7 @@ This experience strengthens my ability to connect **data, analytics, and real bu
 
 ## 📫 Let’s Connect
 - 📧 Email: zikomuhammad2@gmail.com  
-- 💼 LinkedIn: [Muhammad Ziko Ananda Setyawan](www.linkedin.com/in/muhammad-ziko-ananda-setyawan)  
+- 💼 LinkedIn: [Muhammad Ziko Ananda Setyawan](https://www.linkedin.com/in/muhammad-ziko-ananda-setyawan/)  
 
 ---
 
